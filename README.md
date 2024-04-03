@@ -1,2 +1,2 @@
 # hello-world
-This Github repository is for practicing Github Flow
+My name is Adrian, and I like coding, singing, and playing instruments.
